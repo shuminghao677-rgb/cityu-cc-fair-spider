@@ -17,3 +17,4 @@ downloads/
 temp/
 .DS_Store
 Thumbs.db
+__MACOSX/
