@@ -1,5 +1,6 @@
 "use client"
 
+// CityU CC Fair Analytics Dashboard
 import { Sidebar } from "@/components/dashboard/sidebar"
 import { Header } from "@/components/dashboard/header"
 import { KPICards } from "@/components/dashboard/kpi-cards"
