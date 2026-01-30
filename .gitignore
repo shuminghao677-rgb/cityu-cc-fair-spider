@@ -17,4 +17,7 @@ downloads/
 temp/
 .DS_Store
 Thumbs.db
+__MACOSX/
 *.db
+
+# 保留 output/dashboard/*.json 用于 v0 仪表盘

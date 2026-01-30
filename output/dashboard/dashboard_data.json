@@ -1,0 +1,4313 @@
+{
+  "education": {
+    "pivot": {
+      "departments": [
+        "Aerospace Engineering",
+        "Architectural Engineering",
+        "Architectural Studies",
+        "Architectural and Surveying",
+        "Biomedical Engineering",
+        "Biostatistics",
+        "Chemistry",
+        "Civil Engineering",
+        "Computational Finance & Financial Technology",
+        "Computer Science",
+        "Computer and Data Engineering",
+        "Computing Mathematics",
+        "Cybersecutiry",
+        "Data Science",
+        "Data and Systems Engineering",
+        "Electronic and Communication Engineering",
+        "Electronic and Electrical Engineering",
+        "Energy Science and Engineering",
+        "Environment and Sustainable Business",
+        "Environmental Science and Engineering",
+        "Global Research Enrichment and Technopreneurship",
+        "Information Engineering",
+        "Intelligent Manufacturing Engineering",
+        "International Sustainability Programme for Innovation",
+        "Materials Science and Engineering",
+        "Mechanical Engineering",
+        "Microelectronics Engineering",
+        "Nuclear and Risk Engineering",
+        "Physics",
+        "Research and Entrepreneurship",
+        "Surveying",
+        "Systems Engineering and Management"
+      ],
+      "edu_levels": [
+        "Bachelor’s degree",
+        "Doctoral degree",
+        "Master's degree"
+      ],
+      "matrix": [
+        [
+          44,
+          22,
+          30
+        ],
+        [
+          69,
+          24,
+          45
+        ],
+        [
+          50,
+          21,
+          33
+        ],
+        [
+          60,
+          21,
+          41
+        ],
+        [
+          41,
+          24,
+          32
+        ],
+        [
+          41,
+          20,
+          29
+        ],
+        [
+          55,
+          28,
+          44
+        ],
+        [
+          84,
+          24,
+          55
+        ],
+        [
+          53,
+          27,
+          39
+        ],
+        [
+          92,
+          36,
+          57
+        ],
+        [
+          76,
+          34,
+          46
+        ],
+        [
+          60,
+          34,
+          44
+        ],
+        [
+          58,
+          30,
+          43
+        ],
+        [
+          66,
+          33,
+          46
+        ],
+        [
+          66,
+          34,
+          46
+        ],
+        [
+          76,
+          33,
+          44
+        ],
+        [
+          127,
+          42,
+          85
+        ],
+        [
+          58,
+          29,
+          44
+        ],
+        [
+          51,
+          20,
+          34
+        ],
+        [
+          76,
+          29,
+          49
+        ],
+        [
+          47,
+          20,
+          33
+        ],
+        [
+          85,
+          34,
+          53
+        ],
+        [
+          56,
+          38,
+          43
+        ],
+        [
+          43,
+          20,
+          31
+        ],
+        [
+          61,
+          36,
+          50
+        ],
+        [
+          124,
+          42,
+          86
+        ],
+        [
+          51,
+          36,
+          43
+        ],
+        [
+          43,
+          22,
+          30
+        ],
+        [
+          55,
+          29,
+          45
+        ],
+        [
+          43,
+          20,
+          31
+        ],
+        [
+          65,
+          21,
+          44
+        ],
+        [
+          73,
+          37,
+          47
+        ]
+      ]
+    },
+    "percentage": [
+      {
+        "Department": "Aerospace Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 44,
+        "Total": 96,
+        "Percentage": 45.8
+      },
+      {
+        "Department": "Aerospace Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 30,
+        "Total": 96,
+        "Percentage": 31.2
+      },
+      {
+        "Department": "Aerospace Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 22,
+        "Total": 96,
+        "Percentage": 22.9
+      },
+      {
+        "Department": "Architectural Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 69,
+        "Total": 138,
+        "Percentage": 50.0
+      },
+      {
+        "Department": "Architectural Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 45,
+        "Total": 138,
+        "Percentage": 32.6
+      },
+      {
+        "Department": "Architectural Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 24,
+        "Total": 138,
+        "Percentage": 17.4
+      },
+      {
+        "Department": "Architectural Studies",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 50,
+        "Total": 104,
+        "Percentage": 48.1
+      },
+      {
+        "Department": "Architectural Studies",
+        "Educational_Level": "Master's degree",
+        "Count": 33,
+        "Total": 104,
+        "Percentage": 31.7
+      },
+      {
+        "Department": "Architectural Studies",
+        "Educational_Level": "Doctoral degree",
+        "Count": 21,
+        "Total": 104,
+        "Percentage": 20.2
+      },
+      {
+        "Department": "Architectural and Surveying",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 60,
+        "Total": 122,
+        "Percentage": 49.2
+      },
+      {
+        "Department": "Architectural and Surveying",
+        "Educational_Level": "Master's degree",
+        "Count": 41,
+        "Total": 122,
+        "Percentage": 33.6
+      },
+      {
+        "Department": "Architectural and Surveying",
+        "Educational_Level": "Doctoral degree",
+        "Count": 21,
+        "Total": 122,
+        "Percentage": 17.2
+      },
+      {
+        "Department": "Biomedical Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 41,
+        "Total": 97,
+        "Percentage": 42.3
+      },
+      {
+        "Department": "Biomedical Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 32,
+        "Total": 97,
+        "Percentage": 33.0
+      },
+      {
+        "Department": "Biomedical Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 24,
+        "Total": 97,
+        "Percentage": 24.7
+      },
+      {
+        "Department": "Biostatistics",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 41,
+        "Total": 90,
+        "Percentage": 45.6
+      },
+      {
+        "Department": "Biostatistics",
+        "Educational_Level": "Master's degree",
+        "Count": 29,
+        "Total": 90,
+        "Percentage": 32.2
+      },
+      {
+        "Department": "Biostatistics",
+        "Educational_Level": "Doctoral degree",
+        "Count": 20,
+        "Total": 90,
+        "Percentage": 22.2
+      },
+      {
+        "Department": "Chemistry",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 55,
+        "Total": 127,
+        "Percentage": 43.3
+      },
+      {
+        "Department": "Chemistry",
+        "Educational_Level": "Master's degree",
+        "Count": 44,
+        "Total": 127,
+        "Percentage": 34.6
+      },
+      {
+        "Department": "Chemistry",
+        "Educational_Level": "Doctoral degree",
+        "Count": 28,
+        "Total": 127,
+        "Percentage": 22.0
+      },
+      {
+        "Department": "Civil Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 84,
+        "Total": 163,
+        "Percentage": 51.5
+      },
+      {
+        "Department": "Civil Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 55,
+        "Total": 163,
+        "Percentage": 33.7
+      },
+      {
+        "Department": "Civil Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 24,
+        "Total": 163,
+        "Percentage": 14.7
+      },
+      {
+        "Department": "Computational Finance & Financial Technology",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 53,
+        "Total": 119,
+        "Percentage": 44.5
+      },
+      {
+        "Department": "Computational Finance & Financial Technology",
+        "Educational_Level": "Master's degree",
+        "Count": 39,
+        "Total": 119,
+        "Percentage": 32.8
+      },
+      {
+        "Department": "Computational Finance & Financial Technology",
+        "Educational_Level": "Doctoral degree",
+        "Count": 27,
+        "Total": 119,
+        "Percentage": 22.7
+      },
+      {
+        "Department": "Computer Science",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 92,
+        "Total": 185,
+        "Percentage": 49.7
+      },
+      {
+        "Department": "Computer Science",
+        "Educational_Level": "Master's degree",
+        "Count": 57,
+        "Total": 185,
+        "Percentage": 30.8
+      },
+      {
+        "Department": "Computer Science",
+        "Educational_Level": "Doctoral degree",
+        "Count": 36,
+        "Total": 185,
+        "Percentage": 19.5
+      },
+      {
+        "Department": "Computer and Data Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 76,
+        "Total": 156,
+        "Percentage": 48.7
+      },
+      {
+        "Department": "Computer and Data Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 46,
+        "Total": 156,
+        "Percentage": 29.5
+      },
+      {
+        "Department": "Computer and Data Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 34,
+        "Total": 156,
+        "Percentage": 21.8
+      },
+      {
+        "Department": "Computing Mathematics",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 60,
+        "Total": 138,
+        "Percentage": 43.5
+      },
+      {
+        "Department": "Computing Mathematics",
+        "Educational_Level": "Master's degree",
+        "Count": 44,
+        "Total": 138,
+        "Percentage": 31.9
+      },
+      {
+        "Department": "Computing Mathematics",
+        "Educational_Level": "Doctoral degree",
+        "Count": 34,
+        "Total": 138,
+        "Percentage": 24.6
+      },
+      {
+        "Department": "Cybersecutiry",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 58,
+        "Total": 131,
+        "Percentage": 44.3
+      },
+      {
+        "Department": "Cybersecutiry",
+        "Educational_Level": "Master's degree",
+        "Count": 43,
+        "Total": 131,
+        "Percentage": 32.8
+      },
+      {
+        "Department": "Cybersecutiry",
+        "Educational_Level": "Doctoral degree",
+        "Count": 30,
+        "Total": 131,
+        "Percentage": 22.9
+      },
+      {
+        "Department": "Data Science",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 66,
+        "Total": 145,
+        "Percentage": 45.5
+      },
+      {
+        "Department": "Data Science",
+        "Educational_Level": "Master's degree",
+        "Count": 46,
+        "Total": 145,
+        "Percentage": 31.7
+      },
+      {
+        "Department": "Data Science",
+        "Educational_Level": "Doctoral degree",
+        "Count": 33,
+        "Total": 145,
+        "Percentage": 22.8
+      },
+      {
+        "Department": "Data and Systems Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 66,
+        "Total": 146,
+        "Percentage": 45.2
+      },
+      {
+        "Department": "Data and Systems Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 46,
+        "Total": 146,
+        "Percentage": 31.5
+      },
+      {
+        "Department": "Data and Systems Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 34,
+        "Total": 146,
+        "Percentage": 23.3
+      },
+      {
+        "Department": "Electronic and Communication Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 76,
+        "Total": 153,
+        "Percentage": 49.7
+      },
+      {
+        "Department": "Electronic and Communication Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 44,
+        "Total": 153,
+        "Percentage": 28.8
+      },
+      {
+        "Department": "Electronic and Communication Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 33,
+        "Total": 153,
+        "Percentage": 21.6
+      },
+      {
+        "Department": "Electronic and Electrical Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 127,
+        "Total": 254,
+        "Percentage": 50.0
+      },
+      {
+        "Department": "Electronic and Electrical Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 85,
+        "Total": 254,
+        "Percentage": 33.5
+      },
+      {
+        "Department": "Electronic and Electrical Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 42,
+        "Total": 254,
+        "Percentage": 16.5
+      },
+      {
+        "Department": "Energy Science and Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 58,
+        "Total": 131,
+        "Percentage": 44.3
+      },
+      {
+        "Department": "Energy Science and Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 44,
+        "Total": 131,
+        "Percentage": 33.6
+      },
+      {
+        "Department": "Energy Science and Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 29,
+        "Total": 131,
+        "Percentage": 22.1
+      },
+      {
+        "Department": "Environment and Sustainable Business",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 51,
+        "Total": 105,
+        "Percentage": 48.6
+      },
+      {
+        "Department": "Environment and Sustainable Business",
+        "Educational_Level": "Master's degree",
+        "Count": 34,
+        "Total": 105,
+        "Percentage": 32.4
+      },
+      {
+        "Department": "Environment and Sustainable Business",
+        "Educational_Level": "Doctoral degree",
+        "Count": 20,
+        "Total": 105,
+        "Percentage": 19.0
+      },
+      {
+        "Department": "Environmental Science and Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 76,
+        "Total": 154,
+        "Percentage": 49.4
+      },
+      {
+        "Department": "Environmental Science and Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 49,
+        "Total": 154,
+        "Percentage": 31.8
+      },
+      {
+        "Department": "Environmental Science and Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 29,
+        "Total": 154,
+        "Percentage": 18.8
+      },
+      {
+        "Department": "Global Research Enrichment and Technopreneurship",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 47,
+        "Total": 100,
+        "Percentage": 47.0
+      },
+      {
+        "Department": "Global Research Enrichment and Technopreneurship",
+        "Educational_Level": "Master's degree",
+        "Count": 33,
+        "Total": 100,
+        "Percentage": 33.0
+      },
+      {
+        "Department": "Global Research Enrichment and Technopreneurship",
+        "Educational_Level": "Doctoral degree",
+        "Count": 20,
+        "Total": 100,
+        "Percentage": 20.0
+      },
+      {
+        "Department": "Information Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 85,
+        "Total": 172,
+        "Percentage": 49.4
+      },
+      {
+        "Department": "Information Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 53,
+        "Total": 172,
+        "Percentage": 30.8
+      },
+      {
+        "Department": "Information Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 34,
+        "Total": 172,
+        "Percentage": 19.8
+      },
+      {
+        "Department": "Intelligent Manufacturing Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 56,
+        "Total": 137,
+        "Percentage": 40.9
+      },
+      {
+        "Department": "Intelligent Manufacturing Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 43,
+        "Total": 137,
+        "Percentage": 31.4
+      },
+      {
+        "Department": "Intelligent Manufacturing Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 38,
+        "Total": 137,
+        "Percentage": 27.7
+      },
+      {
+        "Department": "International Sustainability Programme for Innovation",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 43,
+        "Total": 94,
+        "Percentage": 45.7
+      },
+      {
+        "Department": "International Sustainability Programme for Innovation",
+        "Educational_Level": "Master's degree",
+        "Count": 31,
+        "Total": 94,
+        "Percentage": 33.0
+      },
+      {
+        "Department": "International Sustainability Programme for Innovation",
+        "Educational_Level": "Doctoral degree",
+        "Count": 20,
+        "Total": 94,
+        "Percentage": 21.3
+      },
+      {
+        "Department": "Materials Science and Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 61,
+        "Total": 147,
+        "Percentage": 41.5
+      },
+      {
+        "Department": "Materials Science and Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 50,
+        "Total": 147,
+        "Percentage": 34.0
+      },
+      {
+        "Department": "Materials Science and Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 36,
+        "Total": 147,
+        "Percentage": 24.5
+      },
+      {
+        "Department": "Mechanical Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 124,
+        "Total": 252,
+        "Percentage": 49.2
+      },
+      {
+        "Department": "Mechanical Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 86,
+        "Total": 252,
+        "Percentage": 34.1
+      },
+      {
+        "Department": "Mechanical Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 42,
+        "Total": 252,
+        "Percentage": 16.7
+      },
+      {
+        "Department": "Microelectronics Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 51,
+        "Total": 130,
+        "Percentage": 39.2
+      },
+      {
+        "Department": "Microelectronics Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 43,
+        "Total": 130,
+        "Percentage": 33.1
+      },
+      {
+        "Department": "Microelectronics Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 36,
+        "Total": 130,
+        "Percentage": 27.7
+      },
+      {
+        "Department": "Nuclear and Risk Engineering",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 43,
+        "Total": 95,
+        "Percentage": 45.3
+      },
+      {
+        "Department": "Nuclear and Risk Engineering",
+        "Educational_Level": "Master's degree",
+        "Count": 30,
+        "Total": 95,
+        "Percentage": 31.6
+      },
+      {
+        "Department": "Nuclear and Risk Engineering",
+        "Educational_Level": "Doctoral degree",
+        "Count": 22,
+        "Total": 95,
+        "Percentage": 23.2
+      },
+      {
+        "Department": "Physics",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 55,
+        "Total": 129,
+        "Percentage": 42.6
+      },
+      {
+        "Department": "Physics",
+        "Educational_Level": "Master's degree",
+        "Count": 45,
+        "Total": 129,
+        "Percentage": 34.9
+      },
+      {
+        "Department": "Physics",
+        "Educational_Level": "Doctoral degree",
+        "Count": 29,
+        "Total": 129,
+        "Percentage": 22.5
+      },
+      {
+        "Department": "Research and Entrepreneurship",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 43,
+        "Total": 94,
+        "Percentage": 45.7
+      },
+      {
+        "Department": "Research and Entrepreneurship",
+        "Educational_Level": "Master's degree",
+        "Count": 31,
+        "Total": 94,
+        "Percentage": 33.0
+      },
+      {
+        "Department": "Research and Entrepreneurship",
+        "Educational_Level": "Doctoral degree",
+        "Count": 20,
+        "Total": 94,
+        "Percentage": 21.3
+      },
+      {
+        "Department": "Surveying",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 65,
+        "Total": 130,
+        "Percentage": 50.0
+      },
+      {
+        "Department": "Surveying",
+        "Educational_Level": "Master's degree",
+        "Count": 44,
+        "Total": 130,
+        "Percentage": 33.8
+      },
+      {
+        "Department": "Surveying",
+        "Educational_Level": "Doctoral degree",
+        "Count": 21,
+        "Total": 130,
+        "Percentage": 16.2
+      },
+      {
+        "Department": "Systems Engineering and Management",
+        "Educational_Level": "Bachelor’s degree",
+        "Count": 73,
+        "Total": 157,
+        "Percentage": 46.5
+      },
+      {
+        "Department": "Systems Engineering and Management",
+        "Educational_Level": "Master's degree",
+        "Count": 47,
+        "Total": 157,
+        "Percentage": 29.9
+      },
+      {
+        "Department": "Systems Engineering and Management",
+        "Educational_Level": "Doctoral degree",
+        "Count": 37,
+        "Total": 157,
+        "Percentage": 23.6
+      }
+    ],
+    "main_education": [
+      {
+        "Department": "Aerospace Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 44,
+        "Total": 96,
+        "Main_Pct": 45.8
+      },
+      {
+        "Department": "Architectural Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 69,
+        "Total": 138,
+        "Main_Pct": 50.0
+      },
+      {
+        "Department": "Architectural Studies",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 50,
+        "Total": 104,
+        "Main_Pct": 48.1
+      },
+      {
+        "Department": "Architectural and Surveying",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 60,
+        "Total": 122,
+        "Main_Pct": 49.2
+      },
+      {
+        "Department": "Biomedical Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 41,
+        "Total": 97,
+        "Main_Pct": 42.3
+      },
+      {
+        "Department": "Biostatistics",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 41,
+        "Total": 90,
+        "Main_Pct": 45.6
+      },
+      {
+        "Department": "Chemistry",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 55,
+        "Total": 127,
+        "Main_Pct": 43.3
+      },
+      {
+        "Department": "Civil Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 84,
+        "Total": 163,
+        "Main_Pct": 51.5
+      },
+      {
+        "Department": "Computational Finance & Financial Technology",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 53,
+        "Total": 119,
+        "Main_Pct": 44.5
+      },
+      {
+        "Department": "Computer Science",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 92,
+        "Total": 185,
+        "Main_Pct": 49.7
+      },
+      {
+        "Department": "Computer and Data Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 76,
+        "Total": 156,
+        "Main_Pct": 48.7
+      },
+      {
+        "Department": "Computing Mathematics",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 60,
+        "Total": 138,
+        "Main_Pct": 43.5
+      },
+      {
+        "Department": "Cybersecutiry",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 58,
+        "Total": 131,
+        "Main_Pct": 44.3
+      },
+      {
+        "Department": "Data Science",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 66,
+        "Total": 145,
+        "Main_Pct": 45.5
+      },
+      {
+        "Department": "Data and Systems Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 66,
+        "Total": 146,
+        "Main_Pct": 45.2
+      },
+      {
+        "Department": "Electronic and Communication Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 76,
+        "Total": 153,
+        "Main_Pct": 49.7
+      },
+      {
+        "Department": "Electronic and Electrical Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 127,
+        "Total": 254,
+        "Main_Pct": 50.0
+      },
+      {
+        "Department": "Energy Science and Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 58,
+        "Total": 131,
+        "Main_Pct": 44.3
+      },
+      {
+        "Department": "Environment and Sustainable Business",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 51,
+        "Total": 105,
+        "Main_Pct": 48.6
+      },
+      {
+        "Department": "Environmental Science and Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 76,
+        "Total": 154,
+        "Main_Pct": 49.4
+      },
+      {
+        "Department": "Global Research Enrichment and Technopreneurship",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 47,
+        "Total": 100,
+        "Main_Pct": 47.0
+      },
+      {
+        "Department": "Information Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 85,
+        "Total": 172,
+        "Main_Pct": 49.4
+      },
+      {
+        "Department": "Intelligent Manufacturing Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 56,
+        "Total": 137,
+        "Main_Pct": 40.9
+      },
+      {
+        "Department": "International Sustainability Programme for Innovation",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 43,
+        "Total": 94,
+        "Main_Pct": 45.7
+      },
+      {
+        "Department": "Materials Science and Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 61,
+        "Total": 147,
+        "Main_Pct": 41.5
+      },
+      {
+        "Department": "Mechanical Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 124,
+        "Total": 252,
+        "Main_Pct": 49.2
+      },
+      {
+        "Department": "Microelectronics Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 51,
+        "Total": 130,
+        "Main_Pct": 39.2
+      },
+      {
+        "Department": "Nuclear and Risk Engineering",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 43,
+        "Total": 95,
+        "Main_Pct": 45.3
+      },
+      {
+        "Department": "Physics",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 55,
+        "Total": 129,
+        "Main_Pct": 42.6
+      },
+      {
+        "Department": "Research and Entrepreneurship",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 43,
+        "Total": 94,
+        "Main_Pct": 45.7
+      },
+      {
+        "Department": "Surveying",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 65,
+        "Total": 130,
+        "Main_Pct": 50.0
+      },
+      {
+        "Department": "Systems Engineering and Management",
+        "Main_Education": "Bachelor’s degree",
+        "Count": 73,
+        "Total": 157,
+        "Main_Pct": 46.5
+      }
+    ],
+    "edu_level_distribution": [
+      {
+        "education_level": "Bachelor’s degree",
+        "count": 2049
+      },
+      {
+        "education_level": "Master's degree",
+        "count": 1422
+      },
+      {
+        "education_level": "Doctoral degree",
+        "count": 920
+      }
+    ],
+    "department_distribution": [
+      {
+        "department": "Electronic and Electrical Engineering",
+        "count": 254
+      },
+      {
+        "department": "Mechanical Engineering",
+        "count": 252
+      },
+      {
+        "department": "Computer Science",
+        "count": 185
+      },
+      {
+        "department": "Information Engineering",
+        "count": 172
+      },
+      {
+        "department": "Civil Engineering",
+        "count": 163
+      },
+      {
+        "department": "Systems Engineering and Management",
+        "count": 157
+      },
+      {
+        "department": "Computer and Data Engineering",
+        "count": 156
+      },
+      {
+        "department": "Environmental Science and Engineering",
+        "count": 154
+      },
+      {
+        "department": "Electronic and Communication Engineering",
+        "count": 153
+      },
+      {
+        "department": "Materials Science and Engineering",
+        "count": 147
+      },
+      {
+        "department": "Data and Systems Engineering",
+        "count": 146
+      },
+      {
+        "department": "Data Science",
+        "count": 145
+      },
+      {
+        "department": "Computing Mathematics",
+        "count": 138
+      },
+      {
+        "department": "Architectural Engineering",
+        "count": 138
+      },
+      {
+        "department": "Intelligent Manufacturing Engineering",
+        "count": 137
+      },
+      {
+        "department": "Cybersecutiry",
+        "count": 131
+      },
+      {
+        "department": "Energy Science and Engineering",
+        "count": 131
+      },
+      {
+        "department": "Surveying",
+        "count": 130
+      },
+      {
+        "department": "Microelectronics Engineering",
+        "count": 130
+      },
+      {
+        "department": "Physics",
+        "count": 129
+      },
+      {
+        "department": "Chemistry",
+        "count": 127
+      },
+      {
+        "department": "Architectural and Surveying",
+        "count": 122
+      },
+      {
+        "department": "Computational Finance & Financial Technology",
+        "count": 119
+      },
+      {
+        "department": "Environment and Sustainable Business",
+        "count": 105
+      },
+      {
+        "department": "Architectural Studies",
+        "count": 104
+      },
+      {
+        "department": "Global Research Enrichment and Technopreneurship",
+        "count": 100
+      },
+      {
+        "department": "Biomedical Engineering",
+        "count": 97
+      },
+      {
+        "department": "Aerospace Engineering",
+        "count": 96
+      },
+      {
+        "department": "Nuclear and Risk Engineering",
+        "count": 95
+      },
+      {
+        "department": "International Sustainability Programme for Innovation",
+        "count": 94
+      },
+      {
+        "department": "Research and Entrepreneurship",
+        "count": 94
+      },
+      {
+        "department": "Biostatistics",
+        "count": 90
+      }
+    ]
+  },
+  "technical": {
+    "major_skill_pivot": {
+      "majors": [
+        "Aerospace Engineering",
+        "Architectural Engineering",
+        "Architectural Studies",
+        "Architectural and Surveying",
+        "Biomedical Engineering",
+        "Biostatistics",
+        "Chemistry",
+        "Civil Engineering",
+        "Computational Finance & Financial Technology",
+        "Computer Science",
+        "Computer and Data Engineering",
+        "Computing Mathematics",
+        "Cybersecutiry",
+        "Data Science",
+        "Data and Systems Engineering",
+        "Electronic and Communication Engineering",
+        "Electronic and Electrical Engineering",
+        "Energy Science and Engineering",
+        "Environment and Sustainable Business",
+        "Environmental Science and Engineering",
+        "Global Research Enrichment and Technopreneurship",
+        "Information Engineering",
+        "Intelligent Manufacturing Engineering",
+        "International Sustainability Programme for Innovation",
+        "Materials Science and Engineering",
+        "Mechanical Engineering",
+        "Microelectronics Engineering",
+        "Nuclear and Risk Engineering",
+        "Physics",
+        "Research and Entrepreneurship",
+        "Surveying",
+        "Systems Engineering and Management"
+      ],
+      "skills": [
+        "autocad",
+        "aws",
+        "bim",
+        "blockchain",
+        "c++",
+        "carbon",
+        "circuit",
+        "cybersecurity",
+        "embedded",
+        "fea",
+        "fintech",
+        "hvac",
+        "java",
+        "machine learning",
+        "manufacturing",
+        "molecular",
+        "plc",
+        "power system",
+        "python",
+        "qs",
+        "r language",
+        "robotics",
+        "sas",
+        "semiconductor",
+        "solar",
+        "sql",
+        "structural",
+        "surveying",
+        "sustainability",
+        "verilog"
+      ],
+      "matrix": [
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          1,
+          0,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          6,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          4,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          9,
+          4,
+          7,
+          0
+        ],
+        [
+          2,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          4,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          3,
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          6,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          4,
+          9,
+          3,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          8,
+          1,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          6,
+          1,
+          3,
+          1,
+          0,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          1,
+          3,
+          0,
+          1,
+          0,
+          6,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          6,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          15,
+          7,
+          8,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          2,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          3,
+          0,
+          2,
+          1,
+          5,
+          0,
+          1,
+          3,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          5,
+          0,
+          3,
+          6,
+          1,
+          1,
+          2,
+          1,
+          6,
+          5,
+          1,
+          6,
+          4,
+          9,
+          0,
+          1,
+          1,
+          11,
+          0,
+          2,
+          1,
+          6,
+          7,
+          1,
+          8,
+          2,
+          2,
+          3,
+          1
+        ],
+        [
+          0,
+          4,
+          0,
+          3,
+          4,
+          1,
+          2,
+          2,
+          0,
+          6,
+          5,
+          1,
+          1,
+          2,
+          3,
+          0,
+          1,
+          0,
+          9,
+          0,
+          2,
+          1,
+          6,
+          0,
+          1,
+          4,
+          3,
+          2,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          5,
+          1,
+          1,
+          2,
+          1,
+          4,
+          5,
+          1,
+          0,
+          3,
+          2,
+          0,
+          0,
+          0,
+          10,
+          0,
+          2,
+          1,
+          6,
+          1,
+          1,
+          4,
+          0,
+          0,
+          3,
+          1
+        ],
+        [
+          0,
+          4,
+          0,
+          3,
+          6,
+          1,
+          1,
+          2,
+          1,
+          2,
+          5,
+          1,
+          1,
+          4,
+          2,
+          0,
+          0,
+          1,
+          8,
+          0,
+          2,
+          1,
+          3,
+          1,
+          1,
+          3,
+          2,
+          2,
+          3,
+          1
+        ],
+        [
+          0,
+          4,
+          0,
+          3,
+          6,
+          1,
+          1,
+          2,
+          1,
+          4,
+          5,
+          1,
+          1,
+          4,
+          2,
+          0,
+          0,
+          1,
+          11,
+          0,
+          2,
+          1,
+          6,
+          1,
+          1,
+          4,
+          2,
+          2,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          5,
+          1,
+          1,
+          2,
+          1,
+          4,
+          5,
+          1,
+          0,
+          3,
+          2,
+          0,
+          0,
+          0,
+          10,
+          0,
+          2,
+          1,
+          6,
+          1,
+          1,
+          4,
+          1,
+          1,
+          3,
+          1
+        ],
+        [
+          0,
+          4,
+          0,
+          3,
+          5,
+          1,
+          2,
+          2,
+          1,
+          4,
+          5,
+          1,
+          0,
+          3,
+          2,
+          0,
+          0,
+          0,
+          7,
+          0,
+          2,
+          1,
+          3,
+          1,
+          1,
+          3,
+          0,
+          0,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          1,
+          3,
+          5,
+          1,
+          2,
+          6,
+          1,
+          4,
+          5,
+          1,
+          0,
+          3,
+          10,
+          0,
+          0,
+          0,
+          7,
+          0,
+          2,
+          1,
+          3,
+          7,
+          1,
+          3,
+          10,
+          5,
+          9,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          6,
+          0,
+          2,
+          5,
+          1,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          2,
+          0,
+          7,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          2,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          1,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          3,
+          1,
+          3,
+          0,
+          1,
+          0,
+          6,
+          0,
+          2,
+          5,
+          1,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          3,
+          0,
+          7,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          3,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          5,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          4,
+          0,
+          3,
+          5,
+          1,
+          2,
+          2,
+          1,
+          6,
+          5,
+          1,
+          4,
+          3,
+          8,
+          0,
+          0,
+          0,
+          10,
+          0,
+          2,
+          1,
+          6,
+          7,
+          1,
+          8,
+          2,
+          1,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          4,
+          1,
+          2,
+          2,
+          0,
+          3,
+          5,
+          1,
+          1,
+          3,
+          3,
+          0,
+          1,
+          0,
+          7,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          4,
+          1,
+          0,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          3,
+          1,
+          2,
+          2,
+          1,
+          2,
+          5,
+          1,
+          0,
+          1,
+          8,
+          1,
+          0,
+          0,
+          5,
+          0,
+          1,
+          1,
+          3,
+          7,
+          1,
+          3,
+          1,
+          0,
+          4,
+          1
+        ],
+        [
+          0,
+          3,
+          1,
+          3,
+          0,
+          1,
+          0,
+          6,
+          0,
+          3,
+          5,
+          1,
+          0,
+          0,
+          8,
+          1,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          4,
+          1,
+          3,
+          12,
+          5,
+          9,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          5,
+          1,
+          2,
+          2,
+          1,
+          3,
+          5,
+          1,
+          0,
+          3,
+          2,
+          0,
+          0,
+          0,
+          7,
+          0,
+          1,
+          1,
+          3,
+          1,
+          1,
+          3,
+          0,
+          0,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          1,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          5,
+          1,
+          1,
+          2,
+          1,
+          2,
+          5,
+          1,
+          0,
+          3,
+          8,
+          0,
+          0,
+          0,
+          7,
+          0,
+          1,
+          1,
+          3,
+          7,
+          1,
+          3,
+          0,
+          0,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          1,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          4,
+          0,
+          0,
+          0,
+          3,
+          1,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          4,
+          10,
+          3,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          5,
+          1,
+          2,
+          2,
+          1,
+          4,
+          5,
+          1,
+          0,
+          3,
+          2,
+          0,
+          0,
+          0,
+          7,
+          0,
+          2,
+          1,
+          5,
+          1,
+          1,
+          3,
+          1,
+          0,
+          3,
+          1
+        ]
+      ]
+    },
+    "top_skills_by_major": {
+      "Aerospace Engineering": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 2
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "carbon",
+          "frequency": 1,
+          "rank": 10
+        }
+      ],
+      "Architectural Engineering": [
+        {
+          "skill": "structural",
+          "frequency": 9,
+          "rank": 1
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 7,
+          "rank": 2
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 6,
+          "rank": 3
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "surveying",
+          "frequency": 4,
+          "rank": 6
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Architectural Studies": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 4,
+          "rank": 2
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "structural",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "autocad",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Architectural and Surveying": [
+        {
+          "skill": "surveying",
+          "frequency": 9,
+          "rank": 1
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "structural",
+          "frequency": 4,
+          "rank": 4
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Biomedical Engineering": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 2
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "carbon",
+          "frequency": 1,
+          "rank": 10
+        }
+      ],
+      "Biostatistics": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 2
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "carbon",
+          "frequency": 1,
+          "rank": 10
+        }
+      ],
+      "Chemistry": [
+        {
+          "skill": "manufacturing",
+          "frequency": 8,
+          "rank": 1
+        },
+        {
+          "skill": "semiconductor",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Civil Engineering": [
+        {
+          "skill": "structural",
+          "frequency": 15,
+          "rank": 1
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 8,
+          "rank": 2
+        },
+        {
+          "skill": "surveying",
+          "frequency": 7,
+          "rank": 3
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 6,
+          "rank": 4
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 6,
+          "rank": 5
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 6
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Computational Finance & Financial Technology": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "sas",
+          "frequency": 5,
+          "rank": 2
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "fea",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Computer Science": [
+        {
+          "skill": "python",
+          "frequency": 11,
+          "rank": 1
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 9,
+          "rank": 2
+        },
+        {
+          "skill": "sql",
+          "frequency": 8,
+          "rank": 3
+        },
+        {
+          "skill": "semiconductor",
+          "frequency": 7,
+          "rank": 4
+        },
+        {
+          "skill": "c++",
+          "frequency": 6,
+          "rank": 5
+        },
+        {
+          "skill": "fea",
+          "frequency": 6,
+          "rank": 6
+        },
+        {
+          "skill": "java",
+          "frequency": 6,
+          "rank": 7
+        },
+        {
+          "skill": "sas",
+          "frequency": 6,
+          "rank": 8
+        },
+        {
+          "skill": "aws",
+          "frequency": 5,
+          "rank": 9
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 10
+        }
+      ],
+      "Computer and Data Engineering": [
+        {
+          "skill": "python",
+          "frequency": 9,
+          "rank": 1
+        },
+        {
+          "skill": "fea",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "sas",
+          "frequency": 6,
+          "rank": 3
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "aws",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "c++",
+          "frequency": 4,
+          "rank": 6
+        },
+        {
+          "skill": "sql",
+          "frequency": 4,
+          "rank": 7
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "structural",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Computing Mathematics": [
+        {
+          "skill": "python",
+          "frequency": 10,
+          "rank": 1
+        },
+        {
+          "skill": "sas",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "fea",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 4,
+          "rank": 6
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Cybersecutiry": [
+        {
+          "skill": "python",
+          "frequency": 8,
+          "rank": 1
+        },
+        {
+          "skill": "c++",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "aws",
+          "frequency": 4,
+          "rank": 4
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Data Science": [
+        {
+          "skill": "python",
+          "frequency": 11,
+          "rank": 1
+        },
+        {
+          "skill": "c++",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "sas",
+          "frequency": 6,
+          "rank": 3
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "aws",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "fea",
+          "frequency": 4,
+          "rank": 6
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 4,
+          "rank": 7
+        },
+        {
+          "skill": "sql",
+          "frequency": 4,
+          "rank": 8
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Data and Systems Engineering": [
+        {
+          "skill": "python",
+          "frequency": 10,
+          "rank": 1
+        },
+        {
+          "skill": "sas",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "fea",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 4,
+          "rank": 6
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Electronic and Communication Engineering": [
+        {
+          "skill": "python",
+          "frequency": 7,
+          "rank": 1
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "aws",
+          "frequency": 4,
+          "rank": 4
+        },
+        {
+          "skill": "fea",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Electronic and Electrical Engineering": [
+        {
+          "skill": "manufacturing",
+          "frequency": 10,
+          "rank": 1
+        },
+        {
+          "skill": "structural",
+          "frequency": 10,
+          "rank": 2
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 9,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 7,
+          "rank": 4
+        },
+        {
+          "skill": "semiconductor",
+          "frequency": 7,
+          "rank": 5
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 6,
+          "rank": 6
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 7
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 8
+        },
+        {
+          "skill": "surveying",
+          "frequency": 5,
+          "rank": 9
+        },
+        {
+          "skill": "fea",
+          "frequency": 4,
+          "rank": 10
+        }
+      ],
+      "Energy Science and Engineering": [
+        {
+          "skill": "sustainability",
+          "frequency": 7,
+          "rank": 1
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "fea",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Environment and Sustainable Business": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 2
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "fea",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Environmental Science and Engineering": [
+        {
+          "skill": "sustainability",
+          "frequency": 7,
+          "rank": 1
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "structural",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "fea",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Global Research Enrichment and Technopreneurship": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "python",
+          "frequency": 5,
+          "rank": 2
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "fea",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Information Engineering": [
+        {
+          "skill": "python",
+          "frequency": 10,
+          "rank": 1
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 8,
+          "rank": 2
+        },
+        {
+          "skill": "sql",
+          "frequency": 8,
+          "rank": 3
+        },
+        {
+          "skill": "semiconductor",
+          "frequency": 7,
+          "rank": 4
+        },
+        {
+          "skill": "fea",
+          "frequency": 6,
+          "rank": 5
+        },
+        {
+          "skill": "sas",
+          "frequency": 6,
+          "rank": 6
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 7
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 8
+        },
+        {
+          "skill": "aws",
+          "frequency": 4,
+          "rank": 9
+        },
+        {
+          "skill": "java",
+          "frequency": 4,
+          "rank": 10
+        }
+      ],
+      "Intelligent Manufacturing Engineering": [
+        {
+          "skill": "python",
+          "frequency": 7,
+          "rank": 1
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 2
+        },
+        {
+          "skill": "c++",
+          "frequency": 4,
+          "rank": 3
+        },
+        {
+          "skill": "sql",
+          "frequency": 4,
+          "rank": 4
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "fea",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "International Sustainability Programme for Innovation": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 2
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "carbon",
+          "frequency": 1,
+          "rank": 10
+        }
+      ],
+      "Materials Science and Engineering": [
+        {
+          "skill": "manufacturing",
+          "frequency": 8,
+          "rank": 1
+        },
+        {
+          "skill": "semiconductor",
+          "frequency": 7,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "c++",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Mechanical Engineering": [
+        {
+          "skill": "structural",
+          "frequency": 12,
+          "rank": 1
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 9,
+          "rank": 2
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 8,
+          "rank": 3
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 6,
+          "rank": 4
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 5
+        },
+        {
+          "skill": "surveying",
+          "frequency": 5,
+          "rank": 6
+        },
+        {
+          "skill": "semiconductor",
+          "frequency": 4,
+          "rank": 7
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "fea",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Microelectronics Engineering": [
+        {
+          "skill": "python",
+          "frequency": 7,
+          "rank": 1
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "fea",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Nuclear and Risk Engineering": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 2
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "carbon",
+          "frequency": 1,
+          "rank": 10
+        }
+      ],
+      "Physics": [
+        {
+          "skill": "manufacturing",
+          "frequency": 8,
+          "rank": 1
+        },
+        {
+          "skill": "python",
+          "frequency": 7,
+          "rank": 2
+        },
+        {
+          "skill": "semiconductor",
+          "frequency": 7,
+          "rank": 3
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 5
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Research and Entrepreneurship": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 2
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "carbon",
+          "frequency": 1,
+          "rank": 10
+        }
+      ],
+      "Surveying": [
+        {
+          "skill": "surveying",
+          "frequency": 10,
+          "rank": 1
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 2
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 4,
+          "rank": 3
+        },
+        {
+          "skill": "structural",
+          "frequency": 4,
+          "rank": 4
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Systems Engineering and Management": [
+        {
+          "skill": "python",
+          "frequency": 7,
+          "rank": 1
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "sas",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "fea",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ]
+    },
+    "skill_ranking": [
+      {
+        "skill": "python",
+        "frequency": 172
+      },
+      {
+        "skill": "fintech",
+        "frequency": 160
+      },
+      {
+        "skill": "sustainability",
+        "frequency": 126
+      },
+      {
+        "skill": "manufacturing",
+        "frequency": 125
+      },
+      {
+        "skill": "sas",
+        "frequency": 118
+      },
+      {
+        "skill": "sql",
+        "frequency": 111
+      },
+      {
+        "skill": "aws",
+        "frequency": 103
+      },
+      {
+        "skill": "blockchain",
+        "frequency": 96
+      },
+      {
+        "skill": "cybersecurity",
+        "frequency": 88
+      },
+      {
+        "skill": "structural",
+        "frequency": 81
+      },
+      {
+        "skill": "fea",
+        "frequency": 80
+      },
+      {
+        "skill": "c++",
+        "frequency": 69
+      },
+      {
+        "skill": "surveying",
+        "frequency": 52
+      },
+      {
+        "skill": "semiconductor",
+        "frequency": 52
+      },
+      {
+        "skill": "r language",
+        "frequency": 43
+      },
+      {
+        "skill": "machine learning",
+        "frequency": 42
+      },
+      {
+        "skill": "solar",
+        "frequency": 32
+      },
+      {
+        "skill": "hvac",
+        "frequency": 32
+      },
+      {
+        "skill": "robotics",
+        "frequency": 32
+      },
+      {
+        "skill": "carbon",
+        "frequency": 32
+      },
+      {
+        "skill": "circuit",
+        "frequency": 22
+      },
+      {
+        "skill": "verilog",
+        "frequency": 14
+      },
+      {
+        "skill": "java",
+        "frequency": 14
+      },
+      {
+        "skill": "embedded",
+        "frequency": 12
+      },
+      {
+        "skill": "autocad",
+        "frequency": 9
+      },
+      {
+        "skill": "molecular",
+        "frequency": 6
+      },
+      {
+        "skill": "bim",
+        "frequency": 4
+      },
+      {
+        "skill": "power system",
+        "frequency": 3
+      },
+      {
+        "skill": "plc",
+        "frequency": 3
+      },
+      {
+        "skill": "qs",
+        "frequency": 1
+      }
+    ],
+    "industry_skill": [
+      {
+        "industry": "AEC & Built Environment",
+        "skill": "structural",
+        "frequency": 81
+      },
+      {
+        "industry": "AEC & Built Environment",
+        "skill": "surveying",
+        "frequency": 52
+      },
+      {
+        "industry": "AEC & Built Environment",
+        "skill": "autocad",
+        "frequency": 9
+      },
+      {
+        "industry": "AEC & Built Environment",
+        "skill": "bim",
+        "frequency": 4
+      },
+      {
+        "industry": "AEC & Built Environment",
+        "skill": "qs",
+        "frequency": 1
+      },
+      {
+        "industry": "Bio & Healthcare",
+        "skill": "sas",
+        "frequency": 118
+      },
+      {
+        "industry": "Bio & Healthcare",
+        "skill": "r language",
+        "frequency": 43
+      },
+      {
+        "industry": "Bio & Healthcare",
+        "skill": "molecular",
+        "frequency": 6
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "python",
+        "frequency": 172
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "fintech",
+        "frequency": 160
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "sql",
+        "frequency": 111
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "aws",
+        "frequency": 103
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "blockchain",
+        "frequency": 96
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "cybersecurity",
+        "frequency": 88
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "c++",
+        "frequency": 69
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "machine learning",
+        "frequency": 42
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "java",
+        "frequency": 14
+      },
+      {
+        "industry": "Electronics & Info",
+        "skill": "semiconductor",
+        "frequency": 52
+      },
+      {
+        "industry": "Electronics & Info",
+        "skill": "circuit",
+        "frequency": 22
+      },
+      {
+        "industry": "Electronics & Info",
+        "skill": "verilog",
+        "frequency": 14
+      },
+      {
+        "industry": "Electronics & Info",
+        "skill": "embedded",
+        "frequency": 12
+      },
+      {
+        "industry": "Electronics & Info",
+        "skill": "plc",
+        "frequency": 3
+      },
+      {
+        "industry": "Energy & Sustainability",
+        "skill": "sustainability",
+        "frequency": 126
+      },
+      {
+        "industry": "Energy & Sustainability",
+        "skill": "carbon",
+        "frequency": 32
+      },
+      {
+        "industry": "Energy & Sustainability",
+        "skill": "hvac",
+        "frequency": 32
+      },
+      {
+        "industry": "Energy & Sustainability",
+        "skill": "solar",
+        "frequency": 32
+      },
+      {
+        "industry": "Energy & Sustainability",
+        "skill": "power system",
+        "frequency": 3
+      },
+      {
+        "industry": "Mechanical & Aero",
+        "skill": "manufacturing",
+        "frequency": 125
+      },
+      {
+        "industry": "Mechanical & Aero",
+        "skill": "fea",
+        "frequency": 80
+      },
+      {
+        "industry": "Mechanical & Aero",
+        "skill": "robotics",
+        "frequency": 32
+      }
+    ],
+    "industry_distribution": [
+      {
+        "industry": "CS & FinTech",
+        "count": 855
+      },
+      {
+        "industry": "Mechanical & Aero",
+        "count": 237
+      },
+      {
+        "industry": "Energy & Sustainability",
+        "count": 225
+      },
+      {
+        "industry": "Bio & Healthcare",
+        "count": 167
+      },
+      {
+        "industry": "AEC & Built Environment",
+        "count": 147
+      },
+      {
+        "industry": "Electronics & Info",
+        "count": 103
+      }
+    ]
+  }
+}

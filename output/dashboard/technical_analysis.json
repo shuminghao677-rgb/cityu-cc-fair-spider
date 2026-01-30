@@ -1,0 +1,3064 @@
+{
+  "technical": {
+    "major_skill_pivot": {
+      "majors": [
+        "Aerospace Engineering",
+        "Architectural Engineering",
+        "Architectural Studies",
+        "Architectural and Surveying",
+        "Biomedical Engineering",
+        "Biostatistics",
+        "Chemistry",
+        "Civil Engineering",
+        "Computational Finance & Financial Technology",
+        "Computer Science",
+        "Computer and Data Engineering",
+        "Computing Mathematics",
+        "Cybersecutiry",
+        "Data Science",
+        "Data and Systems Engineering",
+        "Electronic and Communication Engineering",
+        "Electronic and Electrical Engineering",
+        "Energy Science and Engineering",
+        "Environment and Sustainable Business",
+        "Environmental Science and Engineering",
+        "Global Research Enrichment and Technopreneurship",
+        "Information Engineering",
+        "Intelligent Manufacturing Engineering",
+        "International Sustainability Programme for Innovation",
+        "Materials Science and Engineering",
+        "Mechanical Engineering",
+        "Microelectronics Engineering",
+        "Nuclear and Risk Engineering",
+        "Physics",
+        "Research and Entrepreneurship",
+        "Surveying",
+        "Systems Engineering and Management"
+      ],
+      "skills": [
+        "autocad",
+        "aws",
+        "bim",
+        "blockchain",
+        "c++",
+        "carbon",
+        "circuit",
+        "cybersecurity",
+        "embedded",
+        "fea",
+        "fintech",
+        "hvac",
+        "java",
+        "machine learning",
+        "manufacturing",
+        "molecular",
+        "plc",
+        "power system",
+        "python",
+        "qs",
+        "r language",
+        "robotics",
+        "sas",
+        "semiconductor",
+        "solar",
+        "sql",
+        "structural",
+        "surveying",
+        "sustainability",
+        "verilog"
+      ],
+      "matrix": [
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          1,
+          0,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          6,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          4,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          9,
+          4,
+          7,
+          0
+        ],
+        [
+          2,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          4,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          3,
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          6,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          4,
+          9,
+          3,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          8,
+          1,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          6,
+          1,
+          3,
+          1,
+          0,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          1,
+          3,
+          0,
+          1,
+          0,
+          6,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          6,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          15,
+          7,
+          8,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          2,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          3,
+          0,
+          2,
+          1,
+          5,
+          0,
+          1,
+          3,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          5,
+          0,
+          3,
+          6,
+          1,
+          1,
+          2,
+          1,
+          6,
+          5,
+          1,
+          6,
+          4,
+          9,
+          0,
+          1,
+          1,
+          11,
+          0,
+          2,
+          1,
+          6,
+          7,
+          1,
+          8,
+          2,
+          2,
+          3,
+          1
+        ],
+        [
+          0,
+          4,
+          0,
+          3,
+          4,
+          1,
+          2,
+          2,
+          0,
+          6,
+          5,
+          1,
+          1,
+          2,
+          3,
+          0,
+          1,
+          0,
+          9,
+          0,
+          2,
+          1,
+          6,
+          0,
+          1,
+          4,
+          3,
+          2,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          5,
+          1,
+          1,
+          2,
+          1,
+          4,
+          5,
+          1,
+          0,
+          3,
+          2,
+          0,
+          0,
+          0,
+          10,
+          0,
+          2,
+          1,
+          6,
+          1,
+          1,
+          4,
+          0,
+          0,
+          3,
+          1
+        ],
+        [
+          0,
+          4,
+          0,
+          3,
+          6,
+          1,
+          1,
+          2,
+          1,
+          2,
+          5,
+          1,
+          1,
+          4,
+          2,
+          0,
+          0,
+          1,
+          8,
+          0,
+          2,
+          1,
+          3,
+          1,
+          1,
+          3,
+          2,
+          2,
+          3,
+          1
+        ],
+        [
+          0,
+          4,
+          0,
+          3,
+          6,
+          1,
+          1,
+          2,
+          1,
+          4,
+          5,
+          1,
+          1,
+          4,
+          2,
+          0,
+          0,
+          1,
+          11,
+          0,
+          2,
+          1,
+          6,
+          1,
+          1,
+          4,
+          2,
+          2,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          5,
+          1,
+          1,
+          2,
+          1,
+          4,
+          5,
+          1,
+          0,
+          3,
+          2,
+          0,
+          0,
+          0,
+          10,
+          0,
+          2,
+          1,
+          6,
+          1,
+          1,
+          4,
+          1,
+          1,
+          3,
+          1
+        ],
+        [
+          0,
+          4,
+          0,
+          3,
+          5,
+          1,
+          2,
+          2,
+          1,
+          4,
+          5,
+          1,
+          0,
+          3,
+          2,
+          0,
+          0,
+          0,
+          7,
+          0,
+          2,
+          1,
+          3,
+          1,
+          1,
+          3,
+          0,
+          0,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          1,
+          3,
+          5,
+          1,
+          2,
+          6,
+          1,
+          4,
+          5,
+          1,
+          0,
+          3,
+          10,
+          0,
+          0,
+          0,
+          7,
+          0,
+          2,
+          1,
+          3,
+          7,
+          1,
+          3,
+          10,
+          5,
+          9,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          6,
+          0,
+          2,
+          5,
+          1,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          2,
+          0,
+          7,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          2,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          1,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          3,
+          1,
+          3,
+          0,
+          1,
+          0,
+          6,
+          0,
+          2,
+          5,
+          1,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          3,
+          0,
+          7,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          3,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          5,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          4,
+          0,
+          3,
+          5,
+          1,
+          2,
+          2,
+          1,
+          6,
+          5,
+          1,
+          4,
+          3,
+          8,
+          0,
+          0,
+          0,
+          10,
+          0,
+          2,
+          1,
+          6,
+          7,
+          1,
+          8,
+          2,
+          1,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          4,
+          1,
+          2,
+          2,
+          0,
+          3,
+          5,
+          1,
+          1,
+          3,
+          3,
+          0,
+          1,
+          0,
+          7,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          4,
+          1,
+          0,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          3,
+          1,
+          2,
+          2,
+          1,
+          2,
+          5,
+          1,
+          0,
+          1,
+          8,
+          1,
+          0,
+          0,
+          5,
+          0,
+          1,
+          1,
+          3,
+          7,
+          1,
+          3,
+          1,
+          0,
+          4,
+          1
+        ],
+        [
+          0,
+          3,
+          1,
+          3,
+          0,
+          1,
+          0,
+          6,
+          0,
+          3,
+          5,
+          1,
+          0,
+          0,
+          8,
+          1,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          4,
+          1,
+          3,
+          12,
+          5,
+          9,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          5,
+          1,
+          2,
+          2,
+          1,
+          3,
+          5,
+          1,
+          0,
+          3,
+          2,
+          0,
+          0,
+          0,
+          7,
+          0,
+          1,
+          1,
+          3,
+          1,
+          1,
+          3,
+          0,
+          0,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          1,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          5,
+          1,
+          1,
+          2,
+          1,
+          2,
+          5,
+          1,
+          0,
+          3,
+          8,
+          0,
+          0,
+          0,
+          7,
+          0,
+          1,
+          1,
+          3,
+          7,
+          1,
+          3,
+          0,
+          0,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          1,
+          3,
+          0,
+          3,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          5,
+          1,
+          0,
+          0,
+          4,
+          0,
+          0,
+          0,
+          3,
+          1,
+          1,
+          1,
+          3,
+          0,
+          1,
+          3,
+          4,
+          10,
+          3,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          3,
+          5,
+          1,
+          2,
+          2,
+          1,
+          4,
+          5,
+          1,
+          0,
+          3,
+          2,
+          0,
+          0,
+          0,
+          7,
+          0,
+          2,
+          1,
+          5,
+          1,
+          1,
+          3,
+          1,
+          0,
+          3,
+          1
+        ]
+      ]
+    },
+    "top_skills_by_major": {
+      "Aerospace Engineering": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 2
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "carbon",
+          "frequency": 1,
+          "rank": 10
+        }
+      ],
+      "Architectural Engineering": [
+        {
+          "skill": "structural",
+          "frequency": 9,
+          "rank": 1
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 7,
+          "rank": 2
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 6,
+          "rank": 3
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "surveying",
+          "frequency": 4,
+          "rank": 6
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Architectural Studies": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 4,
+          "rank": 2
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "structural",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "autocad",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Architectural and Surveying": [
+        {
+          "skill": "surveying",
+          "frequency": 9,
+          "rank": 1
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "structural",
+          "frequency": 4,
+          "rank": 4
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Biomedical Engineering": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 2
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "carbon",
+          "frequency": 1,
+          "rank": 10
+        }
+      ],
+      "Biostatistics": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 2
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "carbon",
+          "frequency": 1,
+          "rank": 10
+        }
+      ],
+      "Chemistry": [
+        {
+          "skill": "manufacturing",
+          "frequency": 8,
+          "rank": 1
+        },
+        {
+          "skill": "semiconductor",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Civil Engineering": [
+        {
+          "skill": "structural",
+          "frequency": 15,
+          "rank": 1
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 8,
+          "rank": 2
+        },
+        {
+          "skill": "surveying",
+          "frequency": 7,
+          "rank": 3
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 6,
+          "rank": 4
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 6,
+          "rank": 5
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 6
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Computational Finance & Financial Technology": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "sas",
+          "frequency": 5,
+          "rank": 2
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "fea",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Computer Science": [
+        {
+          "skill": "python",
+          "frequency": 11,
+          "rank": 1
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 9,
+          "rank": 2
+        },
+        {
+          "skill": "sql",
+          "frequency": 8,
+          "rank": 3
+        },
+        {
+          "skill": "semiconductor",
+          "frequency": 7,
+          "rank": 4
+        },
+        {
+          "skill": "c++",
+          "frequency": 6,
+          "rank": 5
+        },
+        {
+          "skill": "fea",
+          "frequency": 6,
+          "rank": 6
+        },
+        {
+          "skill": "java",
+          "frequency": 6,
+          "rank": 7
+        },
+        {
+          "skill": "sas",
+          "frequency": 6,
+          "rank": 8
+        },
+        {
+          "skill": "aws",
+          "frequency": 5,
+          "rank": 9
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 10
+        }
+      ],
+      "Computer and Data Engineering": [
+        {
+          "skill": "python",
+          "frequency": 9,
+          "rank": 1
+        },
+        {
+          "skill": "fea",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "sas",
+          "frequency": 6,
+          "rank": 3
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "aws",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "c++",
+          "frequency": 4,
+          "rank": 6
+        },
+        {
+          "skill": "sql",
+          "frequency": 4,
+          "rank": 7
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "structural",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Computing Mathematics": [
+        {
+          "skill": "python",
+          "frequency": 10,
+          "rank": 1
+        },
+        {
+          "skill": "sas",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "fea",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 4,
+          "rank": 6
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Cybersecutiry": [
+        {
+          "skill": "python",
+          "frequency": 8,
+          "rank": 1
+        },
+        {
+          "skill": "c++",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "aws",
+          "frequency": 4,
+          "rank": 4
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Data Science": [
+        {
+          "skill": "python",
+          "frequency": 11,
+          "rank": 1
+        },
+        {
+          "skill": "c++",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "sas",
+          "frequency": 6,
+          "rank": 3
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "aws",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "fea",
+          "frequency": 4,
+          "rank": 6
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 4,
+          "rank": 7
+        },
+        {
+          "skill": "sql",
+          "frequency": 4,
+          "rank": 8
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Data and Systems Engineering": [
+        {
+          "skill": "python",
+          "frequency": 10,
+          "rank": 1
+        },
+        {
+          "skill": "sas",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "fea",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 4,
+          "rank": 6
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Electronic and Communication Engineering": [
+        {
+          "skill": "python",
+          "frequency": 7,
+          "rank": 1
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "aws",
+          "frequency": 4,
+          "rank": 4
+        },
+        {
+          "skill": "fea",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Electronic and Electrical Engineering": [
+        {
+          "skill": "manufacturing",
+          "frequency": 10,
+          "rank": 1
+        },
+        {
+          "skill": "structural",
+          "frequency": 10,
+          "rank": 2
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 9,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 7,
+          "rank": 4
+        },
+        {
+          "skill": "semiconductor",
+          "frequency": 7,
+          "rank": 5
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 6,
+          "rank": 6
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 7
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 8
+        },
+        {
+          "skill": "surveying",
+          "frequency": 5,
+          "rank": 9
+        },
+        {
+          "skill": "fea",
+          "frequency": 4,
+          "rank": 10
+        }
+      ],
+      "Energy Science and Engineering": [
+        {
+          "skill": "sustainability",
+          "frequency": 7,
+          "rank": 1
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "fea",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Environment and Sustainable Business": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 2
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "fea",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Environmental Science and Engineering": [
+        {
+          "skill": "sustainability",
+          "frequency": 7,
+          "rank": 1
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 6,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "structural",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "fea",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Global Research Enrichment and Technopreneurship": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "python",
+          "frequency": 5,
+          "rank": 2
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "fea",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 10
+        }
+      ],
+      "Information Engineering": [
+        {
+          "skill": "python",
+          "frequency": 10,
+          "rank": 1
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 8,
+          "rank": 2
+        },
+        {
+          "skill": "sql",
+          "frequency": 8,
+          "rank": 3
+        },
+        {
+          "skill": "semiconductor",
+          "frequency": 7,
+          "rank": 4
+        },
+        {
+          "skill": "fea",
+          "frequency": 6,
+          "rank": 5
+        },
+        {
+          "skill": "sas",
+          "frequency": 6,
+          "rank": 6
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 7
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 8
+        },
+        {
+          "skill": "aws",
+          "frequency": 4,
+          "rank": 9
+        },
+        {
+          "skill": "java",
+          "frequency": 4,
+          "rank": 10
+        }
+      ],
+      "Intelligent Manufacturing Engineering": [
+        {
+          "skill": "python",
+          "frequency": 7,
+          "rank": 1
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 2
+        },
+        {
+          "skill": "c++",
+          "frequency": 4,
+          "rank": 3
+        },
+        {
+          "skill": "sql",
+          "frequency": 4,
+          "rank": 4
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "fea",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "International Sustainability Programme for Innovation": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 2
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "carbon",
+          "frequency": 1,
+          "rank": 10
+        }
+      ],
+      "Materials Science and Engineering": [
+        {
+          "skill": "manufacturing",
+          "frequency": 8,
+          "rank": 1
+        },
+        {
+          "skill": "semiconductor",
+          "frequency": 7,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "c++",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Mechanical Engineering": [
+        {
+          "skill": "structural",
+          "frequency": 12,
+          "rank": 1
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 9,
+          "rank": 2
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 8,
+          "rank": 3
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 6,
+          "rank": 4
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 5
+        },
+        {
+          "skill": "surveying",
+          "frequency": 5,
+          "rank": 6
+        },
+        {
+          "skill": "semiconductor",
+          "frequency": 4,
+          "rank": 7
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "fea",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Microelectronics Engineering": [
+        {
+          "skill": "python",
+          "frequency": 7,
+          "rank": 1
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "fea",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Nuclear and Risk Engineering": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 2
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "carbon",
+          "frequency": 1,
+          "rank": 10
+        }
+      ],
+      "Physics": [
+        {
+          "skill": "manufacturing",
+          "frequency": 8,
+          "rank": 1
+        },
+        {
+          "skill": "python",
+          "frequency": 7,
+          "rank": 2
+        },
+        {
+          "skill": "semiconductor",
+          "frequency": 7,
+          "rank": 3
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 5
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Research and Entrepreneurship": [
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 1
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 2
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 3
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 4
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "cybersecurity",
+          "frequency": 2,
+          "rank": 8
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 2,
+          "rank": 9
+        },
+        {
+          "skill": "carbon",
+          "frequency": 1,
+          "rank": 10
+        }
+      ],
+      "Surveying": [
+        {
+          "skill": "surveying",
+          "frequency": 10,
+          "rank": 1
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 2
+        },
+        {
+          "skill": "manufacturing",
+          "frequency": 4,
+          "rank": 3
+        },
+        {
+          "skill": "structural",
+          "frequency": 4,
+          "rank": 4
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 5
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "python",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "sas",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ],
+      "Systems Engineering and Management": [
+        {
+          "skill": "python",
+          "frequency": 7,
+          "rank": 1
+        },
+        {
+          "skill": "c++",
+          "frequency": 5,
+          "rank": 2
+        },
+        {
+          "skill": "fintech",
+          "frequency": 5,
+          "rank": 3
+        },
+        {
+          "skill": "sas",
+          "frequency": 5,
+          "rank": 4
+        },
+        {
+          "skill": "fea",
+          "frequency": 4,
+          "rank": 5
+        },
+        {
+          "skill": "aws",
+          "frequency": 3,
+          "rank": 6
+        },
+        {
+          "skill": "blockchain",
+          "frequency": 3,
+          "rank": 7
+        },
+        {
+          "skill": "machine learning",
+          "frequency": 3,
+          "rank": 8
+        },
+        {
+          "skill": "sql",
+          "frequency": 3,
+          "rank": 9
+        },
+        {
+          "skill": "sustainability",
+          "frequency": 3,
+          "rank": 10
+        }
+      ]
+    },
+    "skill_ranking": [
+      {
+        "skill": "python",
+        "frequency": 172
+      },
+      {
+        "skill": "fintech",
+        "frequency": 160
+      },
+      {
+        "skill": "sustainability",
+        "frequency": 126
+      },
+      {
+        "skill": "manufacturing",
+        "frequency": 125
+      },
+      {
+        "skill": "sas",
+        "frequency": 118
+      },
+      {
+        "skill": "sql",
+        "frequency": 111
+      },
+      {
+        "skill": "aws",
+        "frequency": 103
+      },
+      {
+        "skill": "blockchain",
+        "frequency": 96
+      },
+      {
+        "skill": "cybersecurity",
+        "frequency": 88
+      },
+      {
+        "skill": "structural",
+        "frequency": 81
+      },
+      {
+        "skill": "fea",
+        "frequency": 80
+      },
+      {
+        "skill": "c++",
+        "frequency": 69
+      },
+      {
+        "skill": "surveying",
+        "frequency": 52
+      },
+      {
+        "skill": "semiconductor",
+        "frequency": 52
+      },
+      {
+        "skill": "r language",
+        "frequency": 43
+      },
+      {
+        "skill": "machine learning",
+        "frequency": 42
+      },
+      {
+        "skill": "solar",
+        "frequency": 32
+      },
+      {
+        "skill": "hvac",
+        "frequency": 32
+      },
+      {
+        "skill": "robotics",
+        "frequency": 32
+      },
+      {
+        "skill": "carbon",
+        "frequency": 32
+      },
+      {
+        "skill": "circuit",
+        "frequency": 22
+      },
+      {
+        "skill": "verilog",
+        "frequency": 14
+      },
+      {
+        "skill": "java",
+        "frequency": 14
+      },
+      {
+        "skill": "embedded",
+        "frequency": 12
+      },
+      {
+        "skill": "autocad",
+        "frequency": 9
+      },
+      {
+        "skill": "molecular",
+        "frequency": 6
+      },
+      {
+        "skill": "bim",
+        "frequency": 4
+      },
+      {
+        "skill": "power system",
+        "frequency": 3
+      },
+      {
+        "skill": "plc",
+        "frequency": 3
+      },
+      {
+        "skill": "qs",
+        "frequency": 1
+      }
+    ],
+    "industry_skill": [
+      {
+        "industry": "AEC & Built Environment",
+        "skill": "structural",
+        "frequency": 81
+      },
+      {
+        "industry": "AEC & Built Environment",
+        "skill": "surveying",
+        "frequency": 52
+      },
+      {
+        "industry": "AEC & Built Environment",
+        "skill": "autocad",
+        "frequency": 9
+      },
+      {
+        "industry": "AEC & Built Environment",
+        "skill": "bim",
+        "frequency": 4
+      },
+      {
+        "industry": "AEC & Built Environment",
+        "skill": "qs",
+        "frequency": 1
+      },
+      {
+        "industry": "Bio & Healthcare",
+        "skill": "sas",
+        "frequency": 118
+      },
+      {
+        "industry": "Bio & Healthcare",
+        "skill": "r language",
+        "frequency": 43
+      },
+      {
+        "industry": "Bio & Healthcare",
+        "skill": "molecular",
+        "frequency": 6
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "python",
+        "frequency": 172
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "fintech",
+        "frequency": 160
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "sql",
+        "frequency": 111
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "aws",
+        "frequency": 103
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "blockchain",
+        "frequency": 96
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "cybersecurity",
+        "frequency": 88
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "c++",
+        "frequency": 69
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "machine learning",
+        "frequency": 42
+      },
+      {
+        "industry": "CS & FinTech",
+        "skill": "java",
+        "frequency": 14
+      },
+      {
+        "industry": "Electronics & Info",
+        "skill": "semiconductor",
+        "frequency": 52
+      },
+      {
+        "industry": "Electronics & Info",
+        "skill": "circuit",
+        "frequency": 22
+      },
+      {
+        "industry": "Electronics & Info",
+        "skill": "verilog",
+        "frequency": 14
+      },
+      {
+        "industry": "Electronics & Info",
+        "skill": "embedded",
+        "frequency": 12
+      },
+      {
+        "industry": "Electronics & Info",
+        "skill": "plc",
+        "frequency": 3
+      },
+      {
+        "industry": "Energy & Sustainability",
+        "skill": "sustainability",
+        "frequency": 126
+      },
+      {
+        "industry": "Energy & Sustainability",
+        "skill": "carbon",
+        "frequency": 32
+      },
+      {
+        "industry": "Energy & Sustainability",
+        "skill": "hvac",
+        "frequency": 32
+      },
+      {
+        "industry": "Energy & Sustainability",
+        "skill": "solar",
+        "frequency": 32
+      },
+      {
+        "industry": "Energy & Sustainability",
+        "skill": "power system",
+        "frequency": 3
+      },
+      {
+        "industry": "Mechanical & Aero",
+        "skill": "manufacturing",
+        "frequency": 125
+      },
+      {
+        "industry": "Mechanical & Aero",
+        "skill": "fea",
+        "frequency": 80
+      },
+      {
+        "industry": "Mechanical & Aero",
+        "skill": "robotics",
+        "frequency": 32
+      }
+    ],
+    "industry_distribution": [
+      {
+        "industry": "CS & FinTech",
+        "count": 855
+      },
+      {
+        "industry": "Mechanical & Aero",
+        "count": 237
+      },
+      {
+        "industry": "Energy & Sustainability",
+        "count": 225
+      },
+      {
+        "industry": "Bio & Healthcare",
+        "count": 167
+      },
+      {
+        "industry": "AEC & Built Environment",
+        "count": 147
+      },
+      {
+        "industry": "Electronics & Info",
+        "count": 103
+      }
+    ]
+  }
+}
