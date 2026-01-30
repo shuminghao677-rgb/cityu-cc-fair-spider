@@ -44,6 +44,10 @@ def main():
         json.dump(dashboard, f, ensure_ascii=False, indent=2)
     print(f"\n✓ 已合并仪表盘数据: {out_path}")
 
+    # 生成可离线打开的仪表盘 HTML
+    import generate_dashboard
+    generate_dashboard.main()
+
     print("\n" + "="*50)
     print("全部分析完成！")
     print("  - Excel: output/excel/")

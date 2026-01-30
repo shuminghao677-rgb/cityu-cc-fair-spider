@@ -79,6 +79,19 @@ python techinical_analysis.py
 }
 ```
 
+## 本地 BI 仪表盘
+
+运行分析后，可直接打开交互式仪表盘：
+
+```bash
+python run_analysis.py   # 会自动生成 dashboard_standalone.html
+# 用浏览器打开 output/dashboard/dashboard_standalone.html
+```
+
+**两种打开方式：**
+- **离线单文件**：打开 `output/dashboard/dashboard_standalone.html`，无需服务器
+- **需要刷新数据时**：先运行 `python run_analysis.py`，再运行 `python generate_dashboard.py` 重新生成
+
 ## v0 仪表盘集成
 
 1. 将本项目推送到 GitHub
