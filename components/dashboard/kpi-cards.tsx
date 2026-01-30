@@ -1,41 +1,40 @@
 "use client"
 
-import { TrendingUp, TrendingDown, DollarSign, Users, ShoppingCart, Eye } from "lucide-react"
+import { Building2, GraduationCap, Code2, Briefcase } from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card"
-import { cn } from "@/lib/utils"
 
 const kpis = [
   {
-    title: "Total Revenue",
-    value: "$128,430",
-    change: "+12.5%",
-    trend: "up",
-    icon: DollarSign,
-    description: "vs last period",
+    title: "Total Departments",
+    value: "32",
+    description: "Engineering & Science fields",
+    icon: Building2,
+    color: "text-blue-500",
+    bgColor: "bg-blue-500/10",
   },
   {
-    title: "Active Users",
-    value: "24,521",
-    change: "+8.2%",
-    trend: "up",
-    icon: Users,
-    description: "vs last period",
+    title: "Education Levels",
+    value: "3",
+    description: "Bachelor, Master, Doctoral",
+    icon: GraduationCap,
+    color: "text-emerald-500",
+    bgColor: "bg-emerald-500/10",
   },
   {
-    title: "Orders",
-    value: "1,429",
-    change: "-3.1%",
-    trend: "down",
-    icon: ShoppingCart,
-    description: "vs last period",
+    title: "Technical Skills",
+    value: "30",
+    description: "In-demand skills tracked",
+    icon: Code2,
+    color: "text-amber-500",
+    bgColor: "bg-amber-500/10",
   },
   {
-    title: "Page Views",
-    value: "289K",
-    change: "+18.7%",
-    trend: "up",
-    icon: Eye,
-    description: "vs last period",
+    title: "Total Positions",
+    value: "4,500+",
+    description: "Job openings analyzed",
+    icon: Briefcase,
+    color: "text-purple-500",
+    bgColor: "bg-purple-500/10",
   },
 ]
 
@@ -46,26 +45,13 @@ export function KPICards() {
         <Card key={kpi.title} className="bg-card">
           <CardContent className="p-6">
             <div className="flex items-center justify-between">
-              <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-secondary">
-                <kpi.icon className="h-5 w-5 text-primary" />
-              </div>
-              <div
-                className={cn(
-                  "flex items-center gap-1 text-sm font-medium",
-                  kpi.trend === "up" ? "text-emerald-500" : "text-red-500"
-                )}
-              >
-                {kpi.trend === "up" ? (
-                  <TrendingUp className="h-4 w-4" />
-                ) : (
-                  <TrendingDown className="h-4 w-4" />
-                )}
-                {kpi.change}
+              <div className={`flex h-10 w-10 items-center justify-center rounded-lg ${kpi.bgColor}`}>
+                <kpi.icon className={`h-5 w-5 ${kpi.color}`} />
               </div>
             </div>
             <div className="mt-4">
-              <p className="text-2xl font-bold text-foreground">{kpi.value}</p>
-              <p className="text-sm text-muted-foreground">{kpi.title}</p>
+              <p className="text-3xl font-bold text-foreground">{kpi.value}</p>
+              <p className="text-sm font-medium text-foreground">{kpi.title}</p>
             </div>
             <p className="mt-2 text-xs text-muted-foreground">{kpi.description}</p>
           </CardContent>

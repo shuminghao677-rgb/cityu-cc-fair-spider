@@ -4,32 +4,28 @@ import { useState } from "react"
 import {
   LayoutDashboard,
   BarChart3,
-  Users,
-  ShoppingCart,
-  Settings,
-  FileText,
+  GraduationCap,
+  Building2,
+  Code2,
   TrendingUp,
-  Database,
-  Bell,
-  HelpCircle,
   ChevronLeft,
   ChevronRight,
+  Settings,
+  HelpCircle,
 } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 
 const menuItems = [
   { icon: LayoutDashboard, label: "Overview", active: true },
+  { icon: Building2, label: "Departments" },
+  { icon: GraduationCap, label: "Education" },
+  { icon: Code2, label: "Skills" },
   { icon: BarChart3, label: "Analytics" },
-  { icon: TrendingUp, label: "Performance" },
-  { icon: Users, label: "Customers" },
-  { icon: ShoppingCart, label: "Orders" },
-  { icon: FileText, label: "Reports" },
-  { icon: Database, label: "Data Sources" },
+  { icon: TrendingUp, label: "Trends" },
 ]
 
 const bottomItems = [
-  { icon: Bell, label: "Notifications" },
   { icon: Settings, label: "Settings" },
   { icon: HelpCircle, label: "Help" },
 ]
@@ -48,16 +44,16 @@ export function Sidebar() {
         {!collapsed && (
           <div className="flex items-center gap-2">
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
-              <BarChart3 className="h-4 w-4 text-primary-foreground" />
+              <GraduationCap className="h-4 w-4 text-primary-foreground" />
             </div>
             <span className="text-lg font-semibold text-foreground">
-              BI Dashboard
+              CC Fair
             </span>
           </div>
         )}
         {collapsed && (
           <div className="mx-auto flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
-            <BarChart3 className="h-4 w-4 text-primary-foreground" />
+            <GraduationCap className="h-4 w-4 text-primary-foreground" />
           </div>
         )}
       </div>
@@ -78,7 +74,7 @@ export function Sidebar() {
       <nav className="flex-1 space-y-1 p-3">
         {!collapsed && (
           <span className="mb-2 px-3 text-xs font-medium uppercase tracking-wider text-muted-foreground">
-            Main Menu
+            Analysis
           </span>
         )}
         {menuItems.map((item) => (
@@ -98,6 +94,16 @@ export function Sidebar() {
       </nav>
 
       <div className="border-t border-border p-3">
+        {!collapsed && (
+          <div className="mb-3 rounded-lg bg-secondary/50 p-3">
+            <p className="text-xs text-muted-foreground">
+              CityU Career Fair
+            </p>
+            <p className="mt-1 text-xs font-medium text-foreground">
+              2024 Data Analysis
+            </p>
+          </div>
+        )}
         {bottomItems.map((item) => (
           <Button
             key={item.label}

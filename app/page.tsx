@@ -3,11 +3,11 @@
 import { Sidebar } from "@/components/dashboard/sidebar"
 import { Header } from "@/components/dashboard/header"
 import { KPICards } from "@/components/dashboard/kpi-cards"
-import { RevenueChart } from "@/components/dashboard/revenue-chart"
-import { TrafficChart } from "@/components/dashboard/traffic-chart"
-import { ConversionChart } from "@/components/dashboard/conversion-chart"
-import { RecentActivity } from "@/components/dashboard/recent-activity"
-import { TopProducts } from "@/components/dashboard/top-products"
+import { DepartmentChart } from "@/components/dashboard/department-chart"
+import { EducationChart } from "@/components/dashboard/education-chart"
+import { SkillsChart } from "@/components/dashboard/skills-chart"
+import { TopDepartments } from "@/components/dashboard/top-departments"
+import { SkillsHeatmap } from "@/components/dashboard/skills-heatmap"
 
 export default function DashboardPage() {
   return (
@@ -19,13 +19,13 @@ export default function DashboardPage() {
           <div className="mx-auto max-w-7xl space-y-6">
             <KPICards />
             <div className="grid gap-6 lg:grid-cols-2">
-              <RevenueChart />
-              <TrafficChart />
+              <DepartmentChart />
+              <EducationChart />
             </div>
             <div className="grid gap-6 lg:grid-cols-3">
-              <ConversionChart />
-              <TopProducts />
-              <RecentActivity />
+              <SkillsChart />
+              <TopDepartments />
+              <SkillsHeatmap />
             </div>
           </div>
         </main>
